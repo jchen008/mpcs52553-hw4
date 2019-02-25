@@ -1,0 +1,14 @@
+{
+  "name": "hw4",
+  "version": "1.0.0",
+  "description": "10 points",
+  "main": "asteroid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
